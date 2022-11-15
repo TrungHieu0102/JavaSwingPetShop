@@ -19,7 +19,7 @@ public class TestGit {
         int a = 10;
         int c = 6;
         System.out.println(a + c);
-        if (a > 0 && b > 0) {
+        if (a > 0 && c > 0) {
             System.out.println("duong");
             
         }
