@@ -17,8 +17,9 @@ public class TestGit {
         System.out.println("Tes");
         System.out.println("Test teststsststst");
         int a = 10;
-        int b = 5;
-        System.out.println(a + b);
+        int c = 6;
+        System.out.println(a + c);
+        
     }
     
 }
